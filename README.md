@@ -27,4 +27,6 @@ Jetpack Compose: For UI layout and design.
 Kotlin Coroutines: To handle background tasks such as fetching processes and killing them without blocking the main thread.
 Material Design: Provides a polished and responsive user experience.
 This app is ideal for advanced users or developers requiring insights into process management and control, offering a lightweight and efficient solution. Root access is necessary for full functionality.
+![AndroidTaskManagerImage](https://github.com/user-attachments/assets/0036b236-4e5a-4593-9ad7-14e8aa3f2e68)
+
 
