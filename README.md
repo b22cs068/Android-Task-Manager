@@ -1,7 +1,7 @@
 Android Task Manager Description
 The Android Process Monitor is an Android-based task management application designed to monitor and manage processes running on a device. Built using the modern Jetpack Compose framework, this app provides an intuitive interface for real-time process tracking and management.
 
-Key Features:                                                                                                              ![AndroidTaskManagerImage](https://github.com/user-attachments/assets/0036b236-4e5a-4593-9ad7-14e8aa3f2e68)
+Key Features:                                                                                                             
 
 
 Real-time Process Monitoring:
@@ -30,3 +30,4 @@ Material Design: Provides a polished and responsive user experience.
 This app is ideal for advanced users or developers requiring insights into process management and control, offering a lightweight and efficient solution. Root access is necessary for full functionality.
 
 
+ ![AndroidTaskManagerImage](https://github.com/user-attachments/assets/0036b236-4e5a-4593-9ad7-14e8aa3f2e68)
